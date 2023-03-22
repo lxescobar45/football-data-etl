@@ -1,0 +1,1397 @@
+{
+    "get": "games",
+    "parameters": {
+        "team": "29",
+        "season": "2022"
+    },
+    "errors": [],
+    "results": 22,
+    "response": [
+        {
+            "game": {
+                "id": 3919,
+                "stage": "Pre Season",
+                "week": "Week 1",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-08-14",
+                    "time": "01:00",
+                    "timestamp": 1660438800
+                },
+                "venue": {
+                    "name": "Empower Field at Mile High",
+                    "city": "Denver"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media-3.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 28,
+                    "name": "Denver Broncos",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/28.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 0,
+                    "quarter_2": 17,
+                    "quarter_3": 0,
+                    "quarter_4": 0,
+                    "overtime": null,
+                    "total": 17
+                },
+                "away": {
+                    "quarter_1": 0,
+                    "quarter_2": 0,
+                    "quarter_3": 0,
+                    "quarter_4": 7,
+                    "overtime": null,
+                    "total": 7
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 3933,
+                "stage": "Pre Season",
+                "week": "Week 2",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-08-21",
+                    "time": "02:00",
+                    "timestamp": 1661047200
+                },
+                "venue": {
+                    "name": "SoFi Stadium",
+                    "city": "Inglewood"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 30,
+                    "name": "Los Angeles Chargers",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/30.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 3,
+                    "quarter_2": 7,
+                    "quarter_3": 0,
+                    "quarter_4": 8,
+                    "overtime": null,
+                    "total": 18
+                },
+                "away": {
+                    "quarter_1": 7,
+                    "quarter_2": 22,
+                    "quarter_3": 0,
+                    "quarter_4": 3,
+                    "overtime": null,
+                    "total": 32
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 3941,
+                "stage": "Pre Season",
+                "week": "Week 3",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-08-27",
+                    "time": "00:00",
+                    "timestamp": 1661558400
+                },
+                "venue": {
+                    "name": "AT&T Stadium",
+                    "city": "Arlington"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media-3.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/29.png"
+                },
+                "away": {
+                    "id": 23,
+                    "name": "Seattle Seahawks",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/23.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 0,
+                    "quarter_2": 10,
+                    "quarter_3": 10,
+                    "quarter_4": 7,
+                    "overtime": null,
+                    "total": 27
+                },
+                "away": {
+                    "quarter_1": 10,
+                    "quarter_2": 3,
+                    "quarter_3": 7,
+                    "quarter_4": 6,
+                    "overtime": null,
+                    "total": 26
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 3968,
+                "stage": "Regular Season",
+                "week": "Week 1",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-09-12",
+                    "time": "00:20",
+                    "timestamp": 1662942000
+                },
+                "venue": {
+                    "name": "AT&T Stadium",
+                    "city": "Arlington"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media-3.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/29.png"
+                },
+                "away": {
+                    "id": 24,
+                    "name": "Tampa Bay Buccaneers",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/24.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 3,
+                    "quarter_2": 0,
+                    "quarter_3": 0,
+                    "quarter_4": 0,
+                    "overtime": null,
+                    "total": 3
+                },
+                "away": {
+                    "quarter_1": 6,
+                    "quarter_2": 6,
+                    "quarter_3": 7,
+                    "quarter_4": 0,
+                    "overtime": null,
+                    "total": 19
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 3980,
+                "stage": "Regular Season",
+                "week": "Week 2",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-09-18",
+                    "time": "20:25",
+                    "timestamp": 1663532700
+                },
+                "venue": {
+                    "name": "AT&T Stadium",
+                    "city": "Arlington"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/29.png"
+                },
+                "away": {
+                    "id": 10,
+                    "name": "Cincinnati Bengals",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/10.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 14,
+                    "quarter_2": 3,
+                    "quarter_3": 0,
+                    "quarter_4": 3,
+                    "overtime": null,
+                    "total": 20
+                },
+                "away": {
+                    "quarter_1": 3,
+                    "quarter_2": 0,
+                    "quarter_3": 6,
+                    "quarter_4": 8,
+                    "overtime": null,
+                    "total": 17
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4001,
+                "stage": "Regular Season",
+                "week": "Week 3",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-09-27",
+                    "time": "00:15",
+                    "timestamp": 1664237700
+                },
+                "venue": {
+                    "name": "MetLife Stadium",
+                    "city": "East Rutherford"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media-3.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 4,
+                    "name": "New York Giants",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/4.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 0,
+                    "quarter_2": 3,
+                    "quarter_3": 10,
+                    "quarter_4": 3,
+                    "overtime": null,
+                    "total": 16
+                },
+                "away": {
+                    "quarter_1": 3,
+                    "quarter_2": 3,
+                    "quarter_3": 7,
+                    "quarter_4": 10,
+                    "overtime": null,
+                    "total": 23
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4005,
+                "stage": "Regular Season",
+                "week": "Week 4",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-10-02",
+                    "time": "17:00",
+                    "timestamp": 1664730000
+                },
+                "venue": {
+                    "name": "AT&T Stadium",
+                    "city": "Arlington"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/29.png"
+                },
+                "away": {
+                    "id": 18,
+                    "name": "Washington Commanders",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/18.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 3,
+                    "quarter_2": 9,
+                    "quarter_3": 3,
+                    "quarter_4": 10,
+                    "overtime": null,
+                    "total": 25
+                },
+                "away": {
+                    "quarter_1": 0,
+                    "quarter_2": 7,
+                    "quarter_3": 3,
+                    "quarter_4": 0,
+                    "overtime": null,
+                    "total": 10
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4030,
+                "stage": "Regular Season",
+                "week": "Week 5",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-10-09",
+                    "time": "20:25",
+                    "timestamp": 1665347100
+                },
+                "venue": {
+                    "name": "SoFi Stadium",
+                    "city": "Inglewood"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media-3.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 31,
+                    "name": "Los Angeles Rams",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/31.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 3,
+                    "quarter_2": 7,
+                    "quarter_3": 0,
+                    "quarter_4": 0,
+                    "overtime": null,
+                    "total": 10
+                },
+                "away": {
+                    "quarter_1": 9,
+                    "quarter_2": 7,
+                    "quarter_3": 3,
+                    "quarter_4": 3,
+                    "overtime": null,
+                    "total": 22
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4046,
+                "stage": "Regular Season",
+                "week": "Week 6",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-10-17",
+                    "time": "00:20",
+                    "timestamp": 1665966000
+                },
+                "venue": {
+                    "name": "Lincoln Financial Field",
+                    "city": "Philadelphia"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media-3.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 12,
+                    "name": "Philadelphia Eagles",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/12.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 0,
+                    "quarter_2": 20,
+                    "quarter_3": 0,
+                    "quarter_4": 6,
+                    "overtime": null,
+                    "total": 26
+                },
+                "away": {
+                    "quarter_1": 0,
+                    "quarter_2": 3,
+                    "quarter_3": 7,
+                    "quarter_4": 7,
+                    "overtime": null,
+                    "total": 17
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4050,
+                "stage": "Regular Season",
+                "week": "Week 7",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-10-23",
+                    "time": "17:00",
+                    "timestamp": 1666544400
+                },
+                "venue": {
+                    "name": "AT&T Stadium",
+                    "city": "Arlington"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media-3.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media-3.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/29.png"
+                },
+                "away": {
+                    "id": 7,
+                    "name": "Detroit Lions",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/7.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 0,
+                    "quarter_2": 3,
+                    "quarter_3": 7,
+                    "quarter_4": 14,
+                    "overtime": null,
+                    "total": 24
+                },
+                "away": {
+                    "quarter_1": 3,
+                    "quarter_2": 3,
+                    "quarter_3": 0,
+                    "quarter_4": 0,
+                    "overtime": null,
+                    "total": 6
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4065,
+                "stage": "Regular Season",
+                "week": "Week 8",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-10-30",
+                    "time": "17:00",
+                    "timestamp": 1667149200
+                },
+                "venue": {
+                    "name": "AT&T Stadium",
+                    "city": "Arlington"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media-3.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media-3.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/29.png"
+                },
+                "away": {
+                    "id": 16,
+                    "name": "Chicago Bears",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/16.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 14,
+                    "quarter_2": 14,
+                    "quarter_3": 14,
+                    "quarter_4": 7,
+                    "overtime": null,
+                    "total": 49
+                },
+                "away": {
+                    "quarter_1": 0,
+                    "quarter_2": 17,
+                    "quarter_3": 6,
+                    "quarter_4": 6,
+                    "overtime": null,
+                    "total": 29
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4100,
+                "stage": "Regular Season",
+                "week": "Week 10",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-11-13",
+                    "time": "21:25",
+                    "timestamp": 1668374700
+                },
+                "venue": {
+                    "name": "Lambeau Field",
+                    "city": "Green Bay"
+                },
+                "status": {
+                    "short": null,
+                    "long": "Final\/OT",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media-3.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 15,
+                    "name": "Green Bay Packers",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/15.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 0,
+                    "quarter_2": 14,
+                    "quarter_3": 0,
+                    "quarter_4": 14,
+                    "overtime": 3,
+                    "total": 31
+                },
+                "away": {
+                    "quarter_1": 0,
+                    "quarter_2": 14,
+                    "quarter_3": 14,
+                    "quarter_4": 0,
+                    "overtime": 0,
+                    "total": 28
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4114,
+                "stage": "Regular Season",
+                "week": "Week 11",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-11-20",
+                    "time": "21:25",
+                    "timestamp": 1668979500
+                },
+                "venue": {
+                    "name": "U.S. Bank Stadium",
+                    "city": "Minneapolis"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media-3.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 32,
+                    "name": "Minnesota Vikings",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/32.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 3,
+                    "quarter_2": 0,
+                    "quarter_3": 0,
+                    "quarter_4": 0,
+                    "overtime": null,
+                    "total": 3
+                },
+                "away": {
+                    "quarter_1": 10,
+                    "quarter_2": 13,
+                    "quarter_3": 14,
+                    "quarter_4": 3,
+                    "overtime": null,
+                    "total": 40
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4119,
+                "stage": "Regular Season",
+                "week": "Week 12",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-11-24",
+                    "time": "21:30",
+                    "timestamp": 1669325400
+                },
+                "venue": {
+                    "name": "AT&T Stadium",
+                    "city": "Arlington"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/29.png"
+                },
+                "away": {
+                    "id": 4,
+                    "name": "New York Giants",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/4.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 0,
+                    "quarter_2": 7,
+                    "quarter_3": 14,
+                    "quarter_4": 7,
+                    "overtime": null,
+                    "total": 28
+                },
+                "away": {
+                    "quarter_1": 3,
+                    "quarter_2": 10,
+                    "quarter_3": 0,
+                    "quarter_4": 7,
+                    "overtime": null,
+                    "total": 20
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4147,
+                "stage": "Regular Season",
+                "week": "Week 13",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-12-05",
+                    "time": "01:20",
+                    "timestamp": 1670203200
+                },
+                "venue": {
+                    "name": "AT&T Stadium",
+                    "city": "Arlington"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media-3.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/29.png"
+                },
+                "away": {
+                    "id": 21,
+                    "name": "Indianapolis Colts",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/21.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 7,
+                    "quarter_2": 14,
+                    "quarter_3": 0,
+                    "quarter_4": 33,
+                    "overtime": null,
+                    "total": 54
+                },
+                "away": {
+                    "quarter_1": 10,
+                    "quarter_2": 3,
+                    "quarter_3": 6,
+                    "quarter_4": 0,
+                    "overtime": null,
+                    "total": 19
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4152,
+                "stage": "Regular Season",
+                "week": "Week 14",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-12-11",
+                    "time": "18:00",
+                    "timestamp": 1670781600
+                },
+                "venue": {
+                    "name": "AT&T Stadium",
+                    "city": "Arlington"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media-3.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/29.png"
+                },
+                "away": {
+                    "id": 26,
+                    "name": "Houston Texans",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/26.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 7,
+                    "quarter_2": 10,
+                    "quarter_3": 0,
+                    "quarter_4": 10,
+                    "overtime": null,
+                    "total": 27
+                },
+                "away": {
+                    "quarter_1": 10,
+                    "quarter_2": 10,
+                    "quarter_3": 3,
+                    "quarter_4": 0,
+                    "overtime": null,
+                    "total": 23
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4171,
+                "stage": "Regular Season",
+                "week": "Week 15",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-12-18",
+                    "time": "18:00",
+                    "timestamp": 1671386400
+                },
+                "venue": {
+                    "name": "TIAA Bank Field",
+                    "city": "Jacksonville"
+                },
+                "status": {
+                    "short": null,
+                    "long": "Final\/OT",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 2,
+                    "name": "Jacksonville Jaguars",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/2.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 0,
+                    "quarter_2": 7,
+                    "quarter_3": 17,
+                    "quarter_4": 10,
+                    "overtime": 6,
+                    "total": 40
+                },
+                "away": {
+                    "quarter_1": 7,
+                    "quarter_2": 14,
+                    "quarter_3": 6,
+                    "quarter_4": 7,
+                    "overtime": 0,
+                    "total": 34
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4188,
+                "stage": "Regular Season",
+                "week": "Week 16",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-12-24",
+                    "time": "21:25",
+                    "timestamp": 1671917100
+                },
+                "venue": {
+                    "name": "AT&T Stadium",
+                    "city": "Arlington"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media-3.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/29.png"
+                },
+                "away": {
+                    "id": 12,
+                    "name": "Philadelphia Eagles",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/12.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 7,
+                    "quarter_2": 10,
+                    "quarter_3": 10,
+                    "quarter_4": 13,
+                    "overtime": null,
+                    "total": 40
+                },
+                "away": {
+                    "quarter_1": 10,
+                    "quarter_2": 10,
+                    "quarter_3": 7,
+                    "quarter_4": 7,
+                    "overtime": null,
+                    "total": 34
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4194,
+                "stage": "Regular Season",
+                "week": "Week 17",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2022-12-30",
+                    "time": "01:15",
+                    "timestamp": 1672362900
+                },
+                "venue": {
+                    "name": "Nissan Stadium",
+                    "city": "Nashville"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media-3.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 6,
+                    "name": "Tennessee Titans",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/6.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 0,
+                    "quarter_2": 6,
+                    "quarter_3": 7,
+                    "quarter_4": 0,
+                    "overtime": null,
+                    "total": 13
+                },
+                "away": {
+                    "quarter_1": 7,
+                    "quarter_2": 3,
+                    "quarter_3": 7,
+                    "quarter_4": 10,
+                    "overtime": null,
+                    "total": 27
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4224,
+                "stage": "Regular Season",
+                "week": "Week 18",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2023-01-08",
+                    "time": "21:25",
+                    "timestamp": 1673213100
+                },
+                "venue": {
+                    "name": "FedExField",
+                    "city": "Landover"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media-3.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media-3.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 18,
+                    "name": "Washington Commanders",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/18.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 7,
+                    "quarter_2": 6,
+                    "quarter_3": 7,
+                    "quarter_4": 6,
+                    "overtime": null,
+                    "total": 26
+                },
+                "away": {
+                    "quarter_1": 0,
+                    "quarter_2": 6,
+                    "quarter_3": 0,
+                    "quarter_4": 0,
+                    "overtime": null,
+                    "total": 6
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 3895,
+                "stage": "Post Season",
+                "week": "Wild Card",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2023-01-17",
+                    "time": "01:15",
+                    "timestamp": 1673918100
+                },
+                "venue": {
+                    "name": "Raymond James Stadium",
+                    "city": "Tampa"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 24,
+                    "name": "Tampa Bay Buccaneers",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/24.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media.api-sports.io\/american-football\/teams\/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 0,
+                    "quarter_2": 0,
+                    "quarter_3": 6,
+                    "quarter_4": 8,
+                    "overtime": null,
+                    "total": 14
+                },
+                "away": {
+                    "quarter_1": 6,
+                    "quarter_2": 12,
+                    "quarter_3": 6,
+                    "quarter_4": 7,
+                    "overtime": null,
+                    "total": 31
+                }
+            }
+        },
+        {
+            "game": {
+                "id": 4231,
+                "stage": "Post Season",
+                "week": "Divisional Round",
+                "date": {
+                    "timezone": "UTC",
+                    "date": "2023-01-22",
+                    "time": "23:30",
+                    "timestamp": 1674430200
+                },
+                "venue": {
+                    "name": "Levi's Stadium",
+                    "city": "Santa Clara"
+                },
+                "status": {
+                    "short": "FT",
+                    "long": "Finished",
+                    "timer": null
+                }
+            },
+            "league": {
+                "id": 1,
+                "name": "NFL",
+                "season": "2022",
+                "logo": "https:\/\/media.api-sports.io\/american-football\/leagues\/1.png",
+                "country": {
+                    "name": "USA",
+                    "code": "US",
+                    "flag": "https:\/\/media-3.api-sports.io\/flags\/us.svg"
+                }
+            },
+            "teams": {
+                "home": {
+                    "id": 14,
+                    "name": "San Francisco 49ers",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/14.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Dallas Cowboys",
+                    "logo": "https:\/\/media-3.api-sports.io\/american-football\/teams\/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 3,
+                    "quarter_2": 6,
+                    "quarter_3": 0,
+                    "quarter_4": 10,
+                    "overtime": null,
+                    "total": 19
+                },
+                "away": {
+                    "quarter_1": 0,
+                    "quarter_2": 6,
+                    "quarter_3": 3,
+                    "quarter_4": 3,
+                    "overtime": null,
+                    "total": 12
+                }
+            }
+        }
+    ]
+}
